@@ -1,0 +1,14 @@
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.dll.config
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.BOL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.BOL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.Migrations.InitialCreate.resources
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.BLL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.BLL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.BOL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.DAL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.BOL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.DAL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.DAL.dll.config
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.pdb

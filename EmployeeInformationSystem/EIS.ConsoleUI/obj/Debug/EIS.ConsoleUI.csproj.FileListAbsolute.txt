@@ -1,0 +1,17 @@
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.exe.config
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.exe
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BOL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.DAL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BOL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.DAL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.DAL.dll.config
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.xml
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.exe
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BLL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BLL.pdb

@@ -1,0 +1,4 @@
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\bin\Debug\EIS.BOL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\bin\Debug\EIS.BOL.pdb
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.dll
+C:\Users\Ben\dev\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.pdb
