@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.BLL", "EIS.BLL\EIS.BLL.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.API", "EIS.API\EIS.API.csproj", "{581BA8CB-D8CC-41BF-B7AF-96BC3A4373EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.AngularJSUI", "EIS.AngularJSUI\EIS.AngularJSUI.csproj", "{344F9841-5F54-4221-95B0-3E9EF7B58492}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{581BA8CB-D8CC-41BF-B7AF-96BC3A4373EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{581BA8CB-D8CC-41BF-B7AF-96BC3A4373EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{581BA8CB-D8CC-41BF-B7AF-96BC3A4373EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344F9841-5F54-4221-95B0-3E9EF7B58492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344F9841-5F54-4221-95B0-3E9EF7B58492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344F9841-5F54-4221-95B0-3E9EF7B58492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344F9841-5F54-4221-95B0-3E9EF7B58492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
