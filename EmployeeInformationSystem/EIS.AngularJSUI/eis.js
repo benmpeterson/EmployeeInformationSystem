@@ -4,7 +4,7 @@
 });
 
 
-var appEIS = angular.module('appEIS', ['ngRoute']);
+var appEIS = angular.module('appEIS', ['ngRoute','angularUtils.directives.dirPagination']);
 
 appEIS.config(function ($routeProvider) {
     $routeProvider.when('/Home', { templateUrl: 'Views/Common/Home/Home.html', controller:'homeController'});

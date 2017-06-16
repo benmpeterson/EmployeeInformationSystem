@@ -11,7 +11,7 @@ using System.Web.Http.Description;
 
 namespace EIS.API.Controllers
 {
-    
+    [EnableCors("*","*","*")]
     public class EmployeeController : ApiController
     {
         EmployeeBs employeeObjBs;
@@ -44,6 +44,7 @@ namespace EIS.API.Controllers
             if (!(ModelState.IsValid && employeeObjBs.Insert(employee)))
                 return SendBadRequest();
 
+            employeeObjBs.Insert(employee);
             return CreatedAtRoute("DefaultApi", new { id = employee.EmployeeId }, employee);
         }
 
