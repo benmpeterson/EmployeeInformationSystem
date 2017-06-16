@@ -112,7 +112,7 @@
     <Content Include="Scripts\loading-bar.min.js" />
     <Content Include="Views\Common\Home\Home.html" />
     <Content Include="Views\Common\Home\home.js" />
-    <Content Include="Views\Common\Login\home.js" />
+    <Content Include="Views\Common\Login\login.js" />
     <Content Include="Views\Common\Login\Login.html" />
     <Content Include="Views\Common\RecoverPassword\RecoverPassword.html" />
     <Content Include="Views\Common\RecoverPassword\RecoverPassword.js" />
